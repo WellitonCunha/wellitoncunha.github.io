@@ -1,0 +1,4 @@
+# app-ads.txt do Goat Arena
+# Declara quem esta autorizado a vender o inventario de anuncios do app.
+# Padrao Authorized Sellers for Apps, do IAB Tech Lab.
+google.com, pub-8915566704035927, DIRECT, f08c47fec0942fa0
